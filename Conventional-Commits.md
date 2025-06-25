@@ -126,6 +126,9 @@ BREAKING CHANGE: account status checks are now mandatory in login flow.
 
 ## Useful Tools
 
+- Below are the Conventional Commits extensions for VSCode:
+  - [Commit Message Editor](https://marketplace.visualstudio.com/items?itemName=adam-bender.commit-message-editor) 
+  - [Conventional Commits Extension](https://marketplace.visualstudio.com/items?itemName=vivaxy.vscode-conventional-commits) 
 - [Commitizen](https://www.npmjs.com/package/commitizen) — CLI tool to help write Conventional Commits.
 - [Commitlint](https://commitlint.js.org/) — Lint your commit messages to enforce the convention.
 
@@ -134,5 +137,4 @@ BREAKING CHANGE: account status checks are now mandatory in login flow.
 ## References
 
 - [Conventional Commits](https://www.conventionalcommits.org/)
-- [VSCode Conventional Commits Extension](https://marketplace.visualstudio.com/items?itemName=vivaxy.vscode-conventional-commits)
 - [Medium Article: Why Conventional Commits?](https://medium.com/neudesic-innovation/conventional-commits-a-better-way-78d6785c2e08)
