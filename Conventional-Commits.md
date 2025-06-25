@@ -1,6 +1,6 @@
 # Conventional Commits
 
-The [Conventional Commits](https://www.conventionalcommits.org/) specification is a lightweight convention on top of commit messages. It provides an easy set of rules for creating an explicit commit history, making it easier to build automated tools and maintain a clean, understandable history. This convention also supports [Semantic Versioning (SemVer)](https://semver.org/), by linking commit types to version bumps.
+The [Conventional Commits](https://www.conventionalcommits.org/) specification is a lightweight convention on top of commit messages. It provides an easy set of rules for creating an explicit commit history, making it easier to build automated tools and maintain a clean, understandable history. This convention dovetails with [Semantic Versioning (SemVer)](https://semver.org/), by describing the features, fixes, and breaking changes made in commit messages.
 
 ---
 
